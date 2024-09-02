@@ -1,0 +1,90 @@
+Graph: Erdős-Rényi
+GA SINGLE_POINT tournament Vertex Cover found: 14 in 0.6130697727203369 seconds
+GA UNIFORM tournament Vertex Cover found: 15 in 0.5014963150024414 seconds
+GA SINGLE_POINT roulette Vertex Cover found: 14 in 1.5260047912597656 seconds
+GA UNIFORM roulette Vertex Cover found: 15 in 0.8399033546447754 seconds
+BRUTE Vertex Cover found: 14 in 1.5851666927337646 seconds
+SIM Vertex Cover found: 14 in 0.504997968673706 seconds
+VNS Vertex Cover found: 14 in 0.8056957721710205 seconds
+
+Graph: Barabási-Albert
+GA SINGLE_POINT tournament Vertex Cover found: 9 in 0.47432780265808105 seconds
+GA UNIFORM tournament Vertex Cover found: 9 in 0.5562789440155029 seconds
+GA SINGLE_POINT roulette Vertex Cover found: 9 in 1.9468615055084229 seconds
+GA UNIFORM roulette Vertex Cover found: 9 in 1.6083428859710693 seconds
+BRUTE Vertex Cover found: 9 in 0.47740650177001953 seconds
+SIM Vertex Cover found: 9 in 0.2867293357849121 seconds
+VNS Vertex Cover found: 9 in 0.447037935256958 seconds
+
+Graph: Watts-Strogatz
+GA SINGLE_POINT tournament Vertex Cover found: 12 in 0.4885239601135254 seconds
+GA UNIFORM tournament Vertex Cover found: 12 in 0.47084593772888184 seconds
+GA SINGLE_POINT roulette Vertex Cover found: 12 in 1.4915566444396973 seconds
+GA UNIFORM roulette Vertex Cover found: 12 in 1.5758132934570312 seconds
+BRUTE Vertex Cover found: 12 in 1.2991867065429688 seconds
+SIM Vertex Cover found: 12 in 0.29473090171813965 seconds
+VNS Vertex Cover found: 12 in 0.5606062412261963 seconds
+
+Graph: Complete
+GA SINGLE_POINT tournament Vertex Cover found: inf in 0.3342094421386719 seconds
+GA UNIFORM tournament Vertex Cover found: inf in 0.31956911087036133 seconds
+GA SINGLE_POINT roulette Vertex Cover found: inf in 0.23366284370422363 seconds
+GA UNIFORM roulette Vertex Cover found: inf in 0.23862743377685547 seconds
+BRUTE Vertex Cover found: 19 in 1.8561270236968994 seconds
+SIM Vertex Cover found: 19 in 0.8276364803314209 seconds
+VNS Vertex Cover found: 19 in 0.8071975708007812 seconds
+
+Graph: Cycle
+GA SINGLE_POINT tournament Vertex Cover found: 11 in 0.49866628646850586 seconds
+GA UNIFORM tournament Vertex Cover found: 10 in 0.47783803939819336 seconds
+GA SINGLE_POINT roulette Vertex Cover found: 11 in 1.781053066253662 seconds
+GA UNIFORM roulette Vertex Cover found: 10 in 1.5095386505126953 seconds
+BRUTE Vertex Cover found: 10 in 0.8740777969360352 seconds
+SIM Vertex Cover found: 10 in 0.2517082691192627 seconds
+VNS Vertex Cover found: 10 in 0.39273738861083984 seconds
+
+Graph: Bipartite
+GA SINGLE_POINT tournament Vertex Cover found: 6 in 0.45304226875305176 seconds
+GA UNIFORM tournament Vertex Cover found: 6 in 0.45114636421203613 seconds
+GA SINGLE_POINT roulette Vertex Cover found: 6 in 1.5568203926086426 seconds
+GA UNIFORM roulette Vertex Cover found: 6 in 1.4582204818725586 seconds
+BRUTE Vertex Cover found: 6 in 0.0008704662322998047 seconds
+SIM Vertex Cover found: 6 in 0.17724013328552246 seconds
+VNS Vertex Cover found: 6 in 0.18176960945129395 seconds
+
+Graph: Grid
+GA SINGLE_POINT tournament Vertex Cover found: 11 in 0.47851037979125977 seconds
+GA UNIFORM tournament Vertex Cover found: 11 in 0.4783041477203369 seconds
+GA SINGLE_POINT roulette Vertex Cover found: 11 in 1.6331899166107178 seconds
+GA UNIFORM roulette Vertex Cover found: 11 in 1.6215612888336182 seconds
+BRUTE Vertex Cover found: 11 in 0.006400346755981445 seconds
+SIM Vertex Cover found: 11 in 0.4675254821777344 seconds
+VNS Vertex Cover found: 11 in 0.3212449550628662 seconds
+
+Graph: Star
+GA SINGLE_POINT tournament Vertex Cover found: 1 in 0.5075156688690186 seconds
+GA UNIFORM tournament Vertex Cover found: 1 in 0.7192485332489014 seconds
+GA SINGLE_POINT roulette Vertex Cover found: 1 in 1.7113523483276367 seconds
+GA UNIFORM roulette Vertex Cover found: 1 in 1.7171039581298828 seconds
+BRUTE Vertex Cover found: 1 in 8.034706115722656e-05 seconds
+SIM Vertex Cover found: 1 in 0.21303534507751465 seconds
+VNS Vertex Cover found: 1 in 0.13653182983398438 seconds
+
+Graph: Path
+GA SINGLE_POINT tournament Vertex Cover found: 10 in 0.480405330657959 seconds
+GA UNIFORM tournament Vertex Cover found: 10 in 0.489290714263916 seconds
+GA SINGLE_POINT roulette Vertex Cover found: 10 in 1.7314262390136719 seconds
+GA UNIFORM roulette Vertex Cover found: 11 in 1.706796407699585 seconds
+BRUTE Vertex Cover found: 10 in 1.018876552581787 seconds
+SIM Vertex Cover found: 10 in 0.38988542556762695 seconds
+VNS Vertex Cover found: 10 in 0.3648841381072998 seconds
+
+Graph: Random Regular
+GA SINGLE_POINT tournament Vertex Cover found: 13 in 0.522212028503418 seconds
+GA UNIFORM tournament Vertex Cover found: 13 in 0.49537158012390137 seconds
+GA SINGLE_POINT roulette Vertex Cover found: 13 in 1.655646562576294 seconds
+GA UNIFORM roulette Vertex Cover found: 13 in 1.7443761825561523 seconds
+BRUTE Vertex Cover found: 13 in 1.4963481426239014 seconds
+SIM Vertex Cover found: 13 in 0.3222646713256836 seconds
+VNS Vertex Cover found: 13 in 0.5424513816833496 seconds
+
